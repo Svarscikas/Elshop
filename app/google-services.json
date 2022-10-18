@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "468399650079",
+    "project_id": "el-shop-83013",
+    "storage_bucket": "el-shop-83013.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:468399650079:android:5c44045225b1e55c23ec2a",
+        "android_client_info": {
+          "package_name": "com.example.firebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "468399650079-j6sg2au70dhicv0sfapk6331gjudcngd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAN8aUwDIgTHrlkyee6tN9llA48B5Ik0Ss"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "468399650079-j6sg2au70dhicv0sfapk6331gjudcngd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
